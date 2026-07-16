@@ -22,9 +22,3 @@ O teste de laboratório tradicional pode atrasar processos para gerar um resulta
 * **Ambiente:** VS Code + Jupyter Notebooks
 * **Principais Libs:** Pandas, Scikit-Learn, XGBoost, Plotly e SHAP.
 
----
-<<<<<<< HEAD
-*Projeto desenvolvido para estudos em direção de ser um especialista em análises de processos industriais.*
-
-=======
->>>>>>> 465a921 (Feat: estrutura ambiente virtual e adiciona dependências do sistema de predição cobb)
