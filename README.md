@@ -1,11 +1,7 @@
 # Predição de Teste de Cobb
 
 Este projeto implementa um algo parecido com um (Sensor Virtual) utilizando Machine Learning para estimar o Teste de Cobb em tempo real. 
-<<<<<<< HEAD
 Solução desenvolvida para otimização de qualidade e redução de variabilidade em máquinas de papel.
-=======
-Solução desenvolvida para otimização de qualidade e redução de variabilidade em máquinas de papel sackraft.'
->>>>>>> 465a921 (Feat: estrutura ambiente virtual e adiciona dependências do sistema de predição cobb)
 
 ## Valor de Negócio (Consultoria)
 O teste de laboratório tradicional pode atrasar processos para gerar um resultado. Com este modelo, a operação tem um feedback **instantâneo**, permitindo:
