@@ -1,5 +1,7 @@
 # Predição de Teste de Cobb
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leandroveigadev/cobb-prediction-system/blob/main/notebooks/01_simulacao_cobb_mp23.ipynb)
+
 Este projeto implementa um algo parecido com um (Sensor Virtual) utilizando Machine Learning para estimar o Teste de Cobb em tempo real. 
 Solução desenvolvida para otimização de qualidade e redução de variabilidade em máquinas de papel.
 
